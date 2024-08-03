@@ -3,6 +3,9 @@
 ## Mục đích dự án:
 Tối ưu vận hành bán hàng trên Shopee bằng cách phân tích các đơn hàng không thành công.
 
+## Notes:
+Tôi thật sự cảm thấy dự án này khá thú vị. Vì dường như các nhà bán hàng trên các sàn thương mại điện tử chưa thật sự sử dụng tốt dữ liệu đang có của họ. Việc tập trung vào quẩng cáo, sales, livestream thật sự quan trọng. Tuy nhiên, nhìn lại quá khứ và phân tích xu hướng, các vấn đề tồn đọng hoặc tối ưu hơn trong việc vận hành, bán hàng bằng cách sử dụng và phân tích dữ liệu đang có là một việc làm thực sự cần cân nhắc triển khai sớm một cách bài bản. Một vài sự phân tích và trực quan chỉ làm 1 lần, và khi có dữ liệu mới, chỉ cần update kho dữ liệu, các chỉ số phân tích sẽ tự động cập nhật. Thật sự tuyệt vời!
+
 ## Dữ liệu:
 Dự án này là dữ liệu thật từ 1 shop bán hàng nội thất trên Shopee.
 Dữ liệu từ các file excel đơn hàng của shop, tải từ shopee về. Mỗi tháng 1 file. Sau đó đưa thư mục đơn hàng vào Power BI để phân tích.
