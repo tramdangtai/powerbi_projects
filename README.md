@@ -32,10 +32,15 @@ Dữ liệu được lấy từ kênh Youtube: KSR Datavizon, video: Power BI En
 
 ## Kết quả thu được:
 1/ Tỷ lệ khách hàng rời bỏ nhiều nhất nằm ở Numofproducts = 1.
+
 2/ Credit Type = Fair và Poor chiếm tỷ lệ khách hàng rời bỏ cao nhất.
+
 3/ Độ tuổi có tỷ lệ khách hàng rời bỏ cao là từ 40 - 50.
+
 4/ Giới tính, vị trí, lương không tác động nhiều đến tỷ lệ khách hàng rời bỏ.
+
 5/ Inactive Member có tác động lớn đến tỷ lệ rời bỏ.
+
 6/ Dấu hiệu tốt về xu hướng phát triển: Retain Customers tăng nhanh hơn, và số lượng nhiều hơn Exit Customers.
 
 
